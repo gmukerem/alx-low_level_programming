@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unisted.h>
+#include <unistd.h>
 /**
  * main -this line print code of c programming
  * Return: 1
