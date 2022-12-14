@@ -2,15 +2,15 @@
 
 /**
  * _abs - prints the absolute value of a number
- * @int: the value to be computed
+ * @t: the value to be computed
  * Return: absolute value
  */
-int _abs(int)
+int _abs(int t)
 
 {
-	if (int >= 0)
-		return (int);
+	if t >= 0)
+		return (t);
 	else
-		return (-int);
+		return (-t);
 }
 
